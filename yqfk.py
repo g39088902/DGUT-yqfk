@@ -1,7 +1,3 @@
-#!/usr/bin/python3
-# -*- coding: utf-8 -*-
-
-from apscheduler.schedulers.blocking import BlockingScheduler
 import re
 import requests
 import time
